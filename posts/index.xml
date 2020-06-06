@@ -6,10 +6,27 @@
     <description>Recent content in Posts on 51x31</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2020 08:12:21 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2020 10:46:21 +0200</lastBuildDate>
     
 	<atom:link href="https://51x31.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Links That Help for Hugo</title>
+      <link>https://51x31.github.io/posts/links-that-help-for-hugo/</link>
+      <pubDate>Sat, 06 Jun 2020 10:46:21 +0200</pubDate>
+      
+      <guid>https://51x31.github.io/posts/links-that-help-for-hugo/</guid>
+      <description>HUGO Quickstart a brief introduction into &amp;ldquo;HUGO&amp;rdquo;
+https://gohugo.io/getting-started/quick-start/
+ Configure HUGO https://gohugo.io/getting-started/configuration/
+ Hosting HUGO on Github https://gohugo.io/hosting-and-deployment/hosting-on-github/
+ HUGO Themes https://themes.gohugo.io/
+nice Airspace: https://themes.gohugo.io/airspace-hugo/
+ HUGO Showcase &amp;ldquo;FORESTRY&amp;rdquo; https://gohugo.io/showcase/forestry/
+ Netlify https://app.netlify.com
+ Markdownn CheatSheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists</description>
+    </item>
     
     <item>
       <title>My First Post</title>
