@@ -1,0 +1,4 @@
+baseURL = "https://51x31.github.io/"
+languageCode = "en-us"
+title = "51x31"
+theme = "ananke"
